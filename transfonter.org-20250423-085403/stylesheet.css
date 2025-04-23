@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'AmiriQuran';
-    src: local('AmiriQuran'), url(AmiriQuran.woff) format('woff');
-    unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
+    font-family: 'Alfares';
+    src: local('Alfares'), url(Alfares.ttf) format('tff');
+ 
 }
 
 
