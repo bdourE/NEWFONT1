@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MedadPlatinum-Regular';
-    src: url('MedadPlatinum-Regular.ttf') format('truetype')
+    src: url('MedadPlatinum-Regular.ttf') format('tff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
