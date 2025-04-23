@@ -1,9 +1,12 @@
 @font-face {
     font-family: 'AlmaghribiWarshQuran';
-    src: url('AlmaghribiWarsh-Quran.woff2') format('woff2'),
-        url('AlmaghribiWarsh-Quran.woff') format('woff');
+    src: url('AlmaghribiWarsh-Quran.otf') format('otf')
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+
 }
+}
+
+
 
