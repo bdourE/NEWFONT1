@@ -1,9 +1,7 @@
 @font-face {
     font-family: 'MedadPlatinum-Regular';
-    src: url('MedadPlatinum-Regular.ttf') format('tff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+    src: url('MedadPlatinum-Regular.ttf') format('truetype');
+    unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+FB50-FDFF, U+FE80-FEFC;
 }
 
 
